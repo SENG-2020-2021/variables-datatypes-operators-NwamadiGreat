@@ -32,6 +32,6 @@ class Main {
         daysNotPaid = daysDebtorDefaulted - daysDebtorPaid; 
         System.out.println("The days debtor has not paid before: " + daysNotPaid);
 
-
+      
   }
 }
